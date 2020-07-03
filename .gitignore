@@ -1,0 +1,7 @@
+terraform.tfvars
+storage/.terraform/*
+networking/.terraform/*
+compute/.terraform/*
+.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
